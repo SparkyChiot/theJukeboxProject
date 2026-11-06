@@ -11,10 +11,14 @@
             "id": "e8d59c849500ce58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Music/Australian Indie Rock.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Australian Indie Rock"
             }
           }
         ]
@@ -213,8 +217,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "074cd1c1a43f54e3",
+  "active": "e8d59c849500ce58",
   "lastOpenFiles": [
+    "Music/R&B.md",
+    "Music/artists/Earth, Wind & Fire.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",
