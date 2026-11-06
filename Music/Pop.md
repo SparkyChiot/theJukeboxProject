@@ -1,5 +1,5 @@
 [[_Genres MOC]]
 ```dataview
 LIST
-WHERE [[]]
+FROM [[]]
 ```

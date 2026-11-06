@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Australian Indie Rock.md",
+                "file": "Music/artists/Hop Along.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Australian Indie Rock"
+              "title": "Hop Along"
             }
           }
         ]
@@ -219,8 +219,15 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/R&B.md",
+    "Music/Progressive Soul.md",
+    "Music/artists/Hop Along.md",
     "Music/artists/Earth, Wind & Fire.md",
+    "Music/Disco.md",
+    "Music/Pop.md",
+    "Music/_Genres MOC.md",
+    "Music/Funk.md",
+    "Music/Soul.md",
+    "Music/R&B.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",

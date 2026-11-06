@@ -1,1 +1,6 @@
 [[R&B]]
+[[Soul]]
+[[Funk]]
+[[Pop]]
+[[Disco]]
+[[Progressive Soul]]
