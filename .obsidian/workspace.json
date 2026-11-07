@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/Hop Along.md",
+                "file": "Music/artists/3OH!3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hop Along"
+              "title": "3OH!3"
             }
           }
         ]
@@ -219,12 +219,19 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/Disco.md",
+    "Music/artists/3 Doors Down.md",
+    "Music/artists/3OH!3.md",
+    "Music/Alternative Rock.md",
+    "Music/Hard Rock.md",
+    "Music/Post-Grunge.md",
+    "Music/artists/Earth, Wind & Fire.md",
     "Music/artists/Hop Along.md",
+    "Music/Indie Pop.md",
+    "Music/Indie Rock.md",
+    "Music/Disco.md",
     "Music/Funk.md",
     "Music/Pop.md",
     "Music/Progressive Soul.md",
-    "Music/artists/Earth, Wind & Fire.md",
     "Music/_Genres MOC.md",
     "Music/Soul.md",
     "Music/R&B.md",
