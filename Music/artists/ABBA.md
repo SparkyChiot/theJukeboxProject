@@ -1,4 +1,4 @@
 [[Pop]]
 [[Disco]]
 [[Europop]]
-[[Pop Rock]]
+[[Pop-Rock]]
