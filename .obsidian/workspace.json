@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/AJJ.md",
+                "file": "Music/Alternative Pop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AJJ"
+              "title": "Alternative Pop"
             }
           }
         ]
@@ -219,9 +219,13 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
+    "Music/artists/AViVA.md",
+    "Music/Alternative Pop.md",
+    "Music/artists/AJR.md",
+    "Music/Orchestral Pop.md",
+    "Music/artists/AJJ.md",
     "Music/artists/Earth, Wind & Fire.md",
     "Music/Experimental.md",
-    "Music/artists/AJJ.md",
     "Music/Punk.md",
     "Music/Folk.md",
     "Music/Anti Folk.md",
@@ -241,10 +245,6 @@
     "Music/artists/4 Door Theatre.md",
     "Music/artists/3OH!3.md",
     "Music/artists/3 Doors Down.md",
-    "Music/Post-Hardcore.md",
-    "Music/Metalcore.md",
-    "Music/New Wave.md",
-    "Music/Power Pop.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",
