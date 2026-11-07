@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/Amélie Farren.md",
+                "file": "Music/artists/Anarbor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amélie Farren"
+              "title": "Anarbor"
             }
           }
         ]
@@ -219,12 +219,14 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/Folk Rock.md",
+    "Music/artists/3 Doors Down.md",
+    "Music/artists/Anarbor.md",
+    "Music/Alt-Folk.md",
     "Music/artists/Amélie Farren.md",
+    "Music/Folk Rock.md",
     "Music/artists/American Authors.md",
     "Music/Emo Pop.md",
     "Music/artists/All Time Low.md",
-    "Music/artists/3 Doors Down.md",
     "Music/Show Tunes.md",
     "Music/artists/Alex Brightman.md",
     "Music/Indie.md",
@@ -243,8 +245,6 @@
     "Music/artists/AJJ.md",
     "Music/artists/Aerosmith.md",
     "Music/artists/AC DC.md",
-    "Music/Dance.md",
-    "Music/artists/Ado.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",

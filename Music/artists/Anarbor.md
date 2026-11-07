@@ -1,0 +1,6 @@
+[[Pop-Rock]]
+[[Alternative Rock]]
+[[Synth-Pop]]
+[[Indie Pop]]
+[[Soft Rock]]
+[[Pop-Punk]]
