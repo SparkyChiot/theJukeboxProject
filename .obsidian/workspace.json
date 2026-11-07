@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/Untitled.md",
+                "file": "Music/artists/Alan Walker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Alan Walker"
             }
           }
         ]
@@ -219,8 +219,12 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
+    "Music/artists/3 Doors Down.md",
+    "Music/artists/Alan Walker.md",
+    "Music/Doom Metal.md",
+    "Music/artists/Ahab.md",
+    "Music/Funeral Doom.md",
     "Music/artists/AJJ.md",
-    "Music/artists/Untitled.md",
     "Music/artists/Aerosmith.md",
     "Music/artists/AC DC.md",
     "Music/Dance.md",
@@ -230,7 +234,6 @@
     "Music/J-Rock.md",
     "Music/artists/Ace of Hearts.md",
     "Music/Soft Rock.md",
-    "Music/artists/3 Doors Down.md",
     "Music/Alternative Pop.md",
     "Music/artists/AViVA.md",
     "Music/artists/AJR.md",
@@ -242,9 +245,6 @@
     "Music/Anti Folk.md",
     "Music/Folk Punk.md",
     "Music/artists/4 Non Blondes.md",
-    "Music/Heavy Metal.md",
-    "Music/Rock and Roll.md",
-    "Music/Blues Rock.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",
