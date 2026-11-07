@@ -2,4 +2,4 @@
 [[Future House]]
 [[Future Bass]]
 [[Big Room House]]
-[[Progressi]]
+[[Progressive House]]
