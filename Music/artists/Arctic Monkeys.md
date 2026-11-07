@@ -1,0 +1,6 @@
+[[Indie Rock]]
+[[Garage Rock]]
+[[Post-Punk Revival]]
+[[Psychedelic Rock]]
+[[Alternative Rock]]
+[[Lounge Pop]]

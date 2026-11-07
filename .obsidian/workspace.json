@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/Anarbor.md",
+                "file": "Music/artists/Arctic Monkeys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anarbor"
+              "title": "Arctic Monkeys"
             }
           }
         ]
@@ -219,8 +219,11 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/artists/3 Doors Down.md",
+    "Music/artists/Anthony Warlow.md",
+    "Music/artists/Arctic Monkeys.md",
+    "Music/artists/Andy Black.md",
     "Music/artists/Anarbor.md",
+    "Music/artists/3 Doors Down.md",
     "Music/Alt-Folk.md",
     "Music/artists/Amélie Farren.md",
     "Music/Folk Rock.md",
@@ -242,9 +245,6 @@
     "Music/Doom Metal.md",
     "Music/artists/Ahab.md",
     "Music/Funeral Doom.md",
-    "Music/artists/AJJ.md",
-    "Music/artists/Aerosmith.md",
-    "Music/artists/AC DC.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",
