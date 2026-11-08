@@ -1,2 +1,6 @@
 [[Dance Pop]]
 [[Electronic]]
+[[Teen Pop]]
+[[Contemporary R&B]]
+[[Electro House]]
+[[Adult Contemporary]]
