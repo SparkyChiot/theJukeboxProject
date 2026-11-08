@@ -1,0 +1,6 @@
+[[Hard Rock]]
+[[Pop-Rock]]
+[[Glam Metal]]
+[[AOR]]
+[[Rock]]
+[[Heartland Rock]]

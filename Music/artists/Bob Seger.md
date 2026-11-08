@@ -1,0 +1,6 @@
+[[Heartland Rock]]
+[[Pop-Rock]]
+[[Garage Rock]]
+[[Hard Rock]]
+[[Blues Rock]]
+[[Psychedelic Rock]]
