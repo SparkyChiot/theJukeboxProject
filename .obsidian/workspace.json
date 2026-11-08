@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/Bastille.md",
+                "file": "Music/artists/Bebe Rexha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bastille"
+              "title": "Bebe Rexha"
             }
           }
         ]
@@ -219,8 +219,19 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/artists/Basketball Divorce Court.md",
+    "Music/Electronica.md",
+    "Music/artists/Bebe Rexha.md",
+    "Music/Hardcore Punk.md",
+    "Music/artists/Beastie Boys.md",
+    "Music/Rap-Rock.md",
+    "Music/Alternative Hip-Hop.md",
+    "Music/Hip-Hop.md",
+    "Music/Emo.md",
+    "Music/artists/Bears in Trees.md",
+    "Music/artists/Beach Bunny.md",
+    "Music/Bedroom Pop.md",
     "Music/artists/Bastille.md",
+    "Music/artists/Basketball Divorce Court.md",
     "Music/Punk-Rock.md",
     "Music/artists/Barenaked Ladies.md",
     "Music/Comedy Rock.md",
@@ -234,17 +245,6 @@
     "Music/artists/Newgrounds Death Rugby.md",
     "Music/Indie Folk.md",
     "Music/Slacker Rock.md",
-    "Music/Midwest Emo.md",
-    "Music/artists/Ayesha Erotica.md",
-    "Music/Electroclash.md",
-    "Music/Hyperpop.md",
-    "Music/artists/Avril Lavigne.md",
-    "Music/artists/Avicii.md",
-    "Music/House.md",
-    "Music/EDM.md",
-    "Music/artists/Avenged Sevenfold.md",
-    "Music/Alternative Metal.md",
-    "Music/Progressive Metal.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",

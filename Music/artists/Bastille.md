@@ -1,1 +1,5 @@
 [[Indie Pop]]
+[[Pop-Rock]]
+[[Synth-Pop]]
+[[Electropop]]
+[[Alternative Rock]]
