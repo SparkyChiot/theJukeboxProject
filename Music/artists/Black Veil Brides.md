@@ -1,0 +1,6 @@
+[[Hard Rock]]
+[[Melodic Metalcore]]
+[[Alternative Metal]]
+[[Glam Metal]]
+[[Heavy Metal]]
+[[Post-Hardcore]]

@@ -1,0 +1,5 @@
+[[Hard Rock]]
+[[Occult Rock]]
+[[Pop-Rock]]
+[[Psychedelic Rock]]
+[[Heavy Metal]]
