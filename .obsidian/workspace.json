@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/BURNOUT SYNDROMES.md",
+                "file": "Music/artists/Bastille.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BURNOUT SYNDROMES"
+              "title": "Bastille"
             }
           }
         ]
@@ -219,8 +219,17 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/Shimokita-kei.md",
+    "Music/artists/Basketball Divorce Court.md",
+    "Music/artists/Bastille.md",
+    "Music/Punk-Rock.md",
+    "Music/artists/Barenaked Ladies.md",
+    "Music/Comedy Rock.md",
+    "Music/artists/Backstreet Boys.md",
+    "Music/Adult Contemporary.md",
+    "Music/Teen Pop.md",
+    "Music/Dance Pop.md",
     "Music/artists/BURNOUT SYNDROMES.md",
+    "Music/Shimokita-kei.md",
     "Music/TV Music.md",
     "Music/artists/Newgrounds Death Rugby.md",
     "Music/Indie Folk.md",
@@ -236,15 +245,6 @@
     "Music/artists/Avenged Sevenfold.md",
     "Music/Alternative Metal.md",
     "Music/Progressive Metal.md",
-    "Music/artists/Autoheart.md",
-    "Music/artists/Au Ra.md",
-    "Music/artists/Arrows in Action.md",
-    "Music/artists/Ariana Grande.md",
-    "Music/artists/Arctic Monkeys.md",
-    "Music/Lounge Pop.md",
-    "Music/Psychedelic Rock.md",
-    "Music/Post-Punk Revival.md",
-    "Music/Garage Rock.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",
