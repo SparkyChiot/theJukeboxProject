@@ -1,0 +1,5 @@
+[[Heavy Metal]]
+[[Progressive Metal]]
+[[Alternative Metal]]
+[[Hard Rock]]
+[[Metalcore]]
