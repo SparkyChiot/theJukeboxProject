@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/Billy Joel.md",
+                "file": "Music/artists/Black Eyed Peas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Billy Joel"
+              "title": "Black Eyed Peas"
             }
           }
         ]
@@ -219,8 +219,18 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/artists/Billy Cobb.md",
+    "Music/Reggaetón.md",
+    "Music/artists/Black Eyed Peas.md",
+    "Music/Conscious Hip Hop.md",
+    "Music/Electro Hop.md",
+    "Music/artists/Billy Squier.md",
+    "Music/AOR.md",
+    "Music/Acoustic Rock.md",
     "Music/artists/Billy Joel.md",
+    "Music/Piano Rock.md",
+    "Music/Singer-Songwriter.md",
+    "Music/Heartland Rock.md",
+    "Music/artists/Billy Cobb.md",
     "Music/Geek Rock.md",
     "Music/artists/Billie Eilish.md",
     "Music/artists/Beyoncé.md",
@@ -235,16 +245,6 @@
     "Music/Alternative Hip-Hop.md",
     "Music/Hip-Hop.md",
     "Music/Emo.md",
-    "Music/artists/Bears in Trees.md",
-    "Music/artists/Beach Bunny.md",
-    "Music/Bedroom Pop.md",
-    "Music/artists/Bastille.md",
-    "Music/artists/Basketball Divorce Court.md",
-    "Music/Punk-Rock.md",
-    "Music/artists/Barenaked Ladies.md",
-    "Music/Comedy Rock.md",
-    "Music/artists/Backstreet Boys.md",
-    "Music/Adult Contemporary.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",

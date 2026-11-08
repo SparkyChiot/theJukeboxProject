@@ -1,0 +1,6 @@
+[[Piano Rock]]
+[[Pop-Rock]]
+[[Singer-Songwriter]]
+[[Soft Rock]]
+[[New Wave]]
+[[Heartland Rock]]
