@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/artists/Bowling For Soup.md",
+                "file": "Music/artists/Britney Spears.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bowling For Soup"
+              "title": "Britney Spears"
             }
           }
         ]
@@ -219,8 +219,11 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/artists/Bon Jovi.md",
+    "Music/artists/Bright Eyes.md",
+    "Music/artists/Britney Spears.md",
+    "Music/Indietronica.md",
     "Music/artists/Bowling For Soup.md",
+    "Music/artists/Bon Jovi.md",
     "Music/artists/Bob Seger.md",
     "Music/artists/Bo Burnham.md",
     "Music/Satire.md",
@@ -242,9 +245,6 @@
     "Music/Piano Rock.md",
     "Music/Singer-Songwriter.md",
     "Music/Heartland Rock.md",
-    "Music/artists/Billy Cobb.md",
-    "Music/Geek Rock.md",
-    "Music/artists/Billie Eilish.md",
     "Music/_meta/templates",
     "Music/_meta",
     "git",

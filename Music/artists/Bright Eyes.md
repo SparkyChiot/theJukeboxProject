@@ -1,0 +1,6 @@
+[[Indie Folk]]
+[[Indie Rock]]
+[[Singer-Songwriter]]
+[[Indie Pop]]
+[[Indietronica]]
+[[Slacker Rock]]
