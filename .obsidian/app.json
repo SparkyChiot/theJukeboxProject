@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Music"
+  "newFileFolderPath": "Music",
+  "alwaysUpdateLinks": true
 }

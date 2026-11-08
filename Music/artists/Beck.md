@@ -1,0 +1,5 @@
+[[Alternative Rock]]
+[[Folk Rock]]
+[[Psychedelia]]
+[[Electronic]]
+[[Alt-Country]]
