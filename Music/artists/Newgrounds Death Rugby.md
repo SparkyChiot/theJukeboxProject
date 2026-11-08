@@ -1,0 +1,5 @@
+[[Midwest Emo]]
+[[Indie Rock]]
+[[Slacker Rock]]
+[[Anti Folk]]
+[[Indie Folk]]

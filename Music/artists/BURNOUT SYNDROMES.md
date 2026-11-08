@@ -1,0 +1,5 @@
+[[Shimokita-kei]]
+[[Power Pop]]
+[[TV Music]]
+[[Pop-Punk]]
+[[Pop-Rock]]
