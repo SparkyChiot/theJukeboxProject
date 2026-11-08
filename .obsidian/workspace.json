@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Satire.md",
+                "file": "Music/artists/Bo Burnham.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Satire"
+              "title": "Bo Burnham"
             }
           }
         ]
@@ -219,8 +219,8 @@
   },
   "active": "e8d59c849500ce58",
   "lastOpenFiles": [
-    "Music/artists/Bo Burnham.md",
     "Music/Satire.md",
+    "Music/artists/Bo Burnham.md",
     "Music/Comedy Pop.md",
     "Music/artists/Blue Öyster Cult.md",
     "Music/Occult Rock.md",
